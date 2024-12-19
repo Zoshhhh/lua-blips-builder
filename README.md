@@ -26,6 +26,15 @@ local blips = {
 }
 ```
 
+### Blip Parametre
+
+| **Parametre** | **Description**                                |
+| ------------- | ---------------------------------------------- |
+| `title`       | The name displayed on the map.                 |
+| `colour`      | The color of the blip (use FiveM color codes). |
+| `id`          | The ID of the sprite (icon).                   |
+| `x, y, z`     | Coordinates for the blip location.             |
+
 Assurez-vous de remplir les champs title, colour, id, x, y, et z avec les données correspondant à chaque blip que vous souhaitez ajouter.
 
 👥 Contribution
